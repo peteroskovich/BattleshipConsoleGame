@@ -1,6 +1,6 @@
 # BattleshipConsoleGame
 
-This is a console Battleship game, written in Java using only simple arrays.
+This is a console Battleship game, written in Java using only simple arrays and can be played on console.
 
 
 ## Installation
